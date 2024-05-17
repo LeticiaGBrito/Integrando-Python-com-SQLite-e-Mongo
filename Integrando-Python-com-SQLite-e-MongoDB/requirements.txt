@@ -1,0 +1,3 @@
+#### instalacao de dependencias ####
+pip install sqlalchemy
+pip install pymongo
